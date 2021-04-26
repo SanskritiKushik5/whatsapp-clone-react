@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # Deployed App: <a>https://whatsapp-clone-e616f.web.app</a> 
-
+<img src="https://i.imgur.com/mtGRtfL.png"></img>
 ## Available Scripts
 
 In the project directory, you can run:
